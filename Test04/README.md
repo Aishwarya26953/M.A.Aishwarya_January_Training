@@ -1,4 +1,3 @@
-Heart Disease Prediction Using Supervised Machine Learning
 Project Title
 
 Heart Disease Prediction Using Supervised Machine Learning Algorithms
